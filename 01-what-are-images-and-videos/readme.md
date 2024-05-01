@@ -19,3 +19,12 @@
 - Videos are simply a collection of images which are sequentially swapped at some speed (let's say 30 fps, i.e., 30 images per second), and give illusion of a video.
 
 ![frame rates](../assets/01/frame-rates.webp)
+
+---
+
+## Some notes 📝
+
+- PyTorch reads image in (C, H, W) - channel, height, width
+- OpenCV reads image in (H, W, C) - height, width, channel
+- Pytorch reads image in (RGB) channel
+- OpenCV reads image in (BGR) channel
