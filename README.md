@@ -1,5 +1,7 @@
 # Open-CV codes 😎
 
+![opencv](./assets/opencv.jpeg)
+
 ## Contents
 
 1. [What are images & videos](./01-what-are-images-and-videos/)
