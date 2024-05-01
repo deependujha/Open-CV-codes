@@ -8,3 +8,4 @@
 4. [Colorspaces](./04-colorspace/)
 5. [Blurring](./05-blurring/)
 6. [Global & Adaptive threshole](./06-global-and-adaptive-threshold/)
+7. [Edge detection](./07-edge-detection/)
