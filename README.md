@@ -2,6 +2,8 @@
 
 ![opencv](./assets/opencv.jpeg)
 
+- [OpenCV-python documentation](https://opencv24-python-tutorials.readthedocs.io/en/latest/py_tutorials/py_tutorials.html)
+
 ## Contents
 
 1. [What are images & videos](./01-what-are-images-and-videos/)
