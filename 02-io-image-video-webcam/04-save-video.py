@@ -1,3 +1,4 @@
+# https://opencv24-python-tutorials.readthedocs.io/en/latest/py_tutorials/py_gui/py_video_display/py_video_display.html#saving-a-video
 import numpy as np
 import cv2
 

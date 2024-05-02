@@ -8,7 +8,7 @@
 
 1. [What are images & videos](./01-what-are-images-and-videos/)
 2. [IO: Image, Video & Webcam](./02-io-image-video-webcam/) ✅
-3. [Crop & Resize image](./03-resize-and-crop/) ✅
+3. [Crop, flip & Resize image](./03-resize-crop-and-flip/) ✅
 4. [Colorspaces](./04-colorspace/)
 5. [Blurring](./05-blurring/)
 6. [Global & Adaptive threshold](./06-global-and-adaptive-threshold/)
