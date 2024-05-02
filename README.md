@@ -12,7 +12,8 @@
 6. [Global & Adaptive threshold](./06-global-and-adaptive-threshold/)
 7. [Edge detection](./07-edge-detection/)
 8. [Drawing lines, circle, rectangles, text using OpenCV](./08-drawing-using-opencv/) ✅
-9. [Project: Blur my face](./project-Blur-My-Face/)
+9. [OpenCV events](./09-opencv-events/) ✅
+10. [Project: Blur my face](./project-Blur-My-Face/)
 
 ![blurred face](./assets/blurred-face.png)
 
@@ -23,9 +24,10 @@
 - IO: Image, video & webcam
 - crop & resize
 - drawing lines, circles, rectangles, and writing text on image
+- OpenCV events
 
 ```diff
-+ Be sure to checkout: [MediaPipe](https://developers.google.com/mediapipe)
++ Be sure to checkout MediaPipe: https://developers.google.com/mediapipe
 
 - MediaPipe (from google) can handle:
     - Object detection

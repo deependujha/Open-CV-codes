@@ -7,6 +7,8 @@ img = cv2.imread(os.path.join(".", "whiteboard.png"))
 
 print(img.shape)
 
+# thickness = 3
+# to fill the shape, use thickness = -1
 # line
 cv2.line(img, (100, 150), (300, 450), (0, 255, 0), 3)
 
