@@ -1,0 +1,4 @@
+opencv-python
+
+# from google, On-device machine learning for everyone: https://developers.google.com/mediapipe
+mediapipe 

@@ -12,6 +12,9 @@
 6. [Global & Adaptive threshold](./06-global-and-adaptive-threshold/)
 7. [Edge detection](./07-edge-detection/)
 8. [Drawing lines, circle, rectangles, text using OpenCV](./08-drawing-using-opencv/) ✅
+9. [Project: Blur my face](./project-Blur-My-Face/)
+
+![blurred face](./assets/blurred-face.png)
 
 ---
 
