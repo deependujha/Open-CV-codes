@@ -23,3 +23,16 @@
 - IO: Image, video & webcam
 - crop & resize
 - drawing lines, circles, rectangles, and writing text on image
+
+```diff
++ Be sure to checkout: [MediaPipe](https://developers.google.com/mediapipe)
+
+- MediaPipe (from google) can handle:
+    - Object detection
+    - Object segmentation
+    - Gesture recognition
+    - face detection
+    - pose landmark detection
+    - and much more.
+
+```
